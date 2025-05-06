@@ -1,9 +1,9 @@
 # TowerStack
 
 <p align="center">
-  <img src="screenshots/screenshot1.png" width="250" alt="TowerStack Gameplay">
-  <img src="screenshots/screenshot2.png" width="250" alt="TowerStack Building">
-  <img src="screenshots/screenshot3.png" width="250" alt="TowerStack Effects">
+  <img src="tapgame-89412.web.app_ (1).png" width="250" alt="TowerStack Gameplay">
+  <img src="tapgame-89412.web.app_ (2).png" width="250" alt="TowerStack Building">
+  <img src="tapgame-89412.web.app_.png" width="250" alt="TowerStack Effects">
 </p>
 
 ## 🏗️ Overview
