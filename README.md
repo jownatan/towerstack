@@ -8,7 +8,7 @@
 
 ## 🏗️ Overview
 
-TowerStack is an engaging isometric word-finding game built entirely with Flutter, showcasing advanced development techniques without external dependencies. Players compete to find words in the tower structure, earning points and rewards while engaging in strategic battles. You can play the demo in [link text](tapgame-89412.web.app)
+TowerStack is an engaging isometric word-finding game built entirely with Flutter, showcasing advanced development techniques without external dependencies. Players compete to find words in the tower structure, earning points and rewards while engaging in strategic battles. You can play the demo in [link](tapgame-89412.web.app)
 
 ## ✨ Features
 
