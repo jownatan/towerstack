@@ -8,18 +8,18 @@
 
 ## 🏗️ Overview
 
-TowerStack is an engaging isometric word-finding game built entirely with Flutter, showcasing advanced development techniques without external dependencies. Players compete to find words in the tower structure, earning points and rewards while engaging in strategic battles.
+TowerStack is an engaging isometric word-finding game built entirely with Flutter, showcasing advanced development techniques without external dependencies. Players compete to find words in the tower structure, earning points and rewards while engaging in strategic battles. You can play the demo in [link text](tapgame-89412.web.app)
 
 ## ✨ Features
 
 ### Core Gameplay
-- **Word Discovery**: Find words (greater than 3 letters and less than 6 letters) hidden in the tower structure
+- **Word Discovery**: Find words (greater than 3 letters and less than 6 letters) hidden in the game table
 - **Two-Player Competition**: Battle against another player to find the most words
 - **Point & Cash System**: Earn points and in-game currency for each successful word discovery
 - **Strategic Elements**: Plan your moves to maximize scoring opportunities
 
 ### Technical Highlights
-- **Pure Flutter Implementation**: Developed entirely using Flutter without additional dependencies
+- **Pure Flutter Implementation for 3D-like and Physics**: Developed entirely using Flutter without additional dependencies
 - **Isometric Design**: Beautiful 3D-like isometric environment with depth perception
 - **Physics Engine**: Custom-built physics calculations affect how floors stack and balance
 - **Voxel-Based Particles**: Stunning particle effects using custom voxel rendering
@@ -39,11 +39,10 @@ Fully functional on:
 
 ## 🎮 How to Play
 
-1. Explore the isometric tower structure
-2. Find words that are greater than 3 letters and less than 6 letters in length
-3. Submit discovered words to earn points and in-game currency
-4. Compete against the second player to find more words
-5. Use strategic thinking to discover high-value word combinations
+1. Find words that are greater than 3 letters and less than 6 letters in length
+2. Submit discovered words to earn points and in-game currency
+3. Compete against the second player to find more words
+4. Use strategic thinking to discover high-value word combinations
 
 ## 📷 Screenshots
 
@@ -51,6 +50,12 @@ The screenshots showcase:
 1. Main gameplay with the isometric tower and word discovery interface
 2. Physics-based interactions when building or modifying the tower
 3. Particle effects and visual feedback during successful word submissions
+
+<p align="center">
+  <img src="tapgame-89412.web.app_ (1).png" width="250" alt="TowerStack Gameplay">
+  <img src="tapgame-89412.web.app_ (2).png" width="250" alt="TowerStack Building">
+  <img src="tapgame-89412.web.app_.png" width="250" alt="TowerStack Effects">
+</p>
 
 ## 💻 Development Highlights
 
